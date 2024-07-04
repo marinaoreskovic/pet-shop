@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Collar para Perro",
+    "description": "Collar ajustable de cuero para perros de tamaño mediano",
+    "code": "COLLAR123",
+    "price": 25.99,
+    "status": true,
+    "stock": 50,
+    "category": "Perros",
+    "thumbnails": [
+      "https://example.com/collar1.jpg",
+      "https://example.com/collar1-thumb.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Cama para Gato",
+    "description": "Cama suave y cómoda para gatos pequeños y medianos",
+    "code": "CAMAGATO456",
+    "price": 39.99,
+    "status": true,
+    "stock": 30,
+    "category": "Gatos",
+    "thumbnails": ["https://example.com/cama-gato.jpg"]
+  },
+  {
+    "id": "3",
+    "title": "Juguete Interactivo para Perro",
+    "description": "Pelota de goma duradera para juegos de lanzar y traer",
+    "code": "JUGUETEPERRO789",
+    "price": 12.5,
+    "status": true,
+    "stock": 100,
+    "category": "Perros",
+    "thumbnails": ["https://example.com/juguete-perro.jpg"]
+  }
+]
